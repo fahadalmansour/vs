@@ -1,4 +1,28 @@
 {
 	"inlineChat.finishOnType": true,
-	"inlineChat.mode": "live"
+	"inlineChat.mode": "live",
+	"files.autoSave": "onWindowChange",
+	"workbench.editor.autoLockGroups": {
+		"default": true,
+		"workbench.editor.chatSession": true,
+		"vscode.audioPreview": true,
+		"vscode.videoPreview": true,
+		"jsProfileVisualizer.cpuprofile.table": true,
+		"jsProfileVisualizer.heapprofile.table": true,
+		"LadderEditor": true,
+		"MappingEditor": true,
+		"EtherCatConfigEditor": true,
+		"gitlens.rebase": true
+	},
+	"accessibility.alert.error": true,
+	"accessibility.alert.lineHasBreakpoint": true,
+	"timeline.pageOnScroll": true,
+	"remote.otherPortsAttributes": {
+		"onAutoForward": "openBrowser",
+		"elevateIfNeeded": true
+	},
+	"cmake.sourceDirectory": "/Users/fahadalmansour/Downloads/vscode-main/cli/src/tunnels",
+	"editor.renderWhitespace": "all",
+	"editor.wordWrap": "on",
+	"debug.allowBreakpointsEverywhere": true
 }

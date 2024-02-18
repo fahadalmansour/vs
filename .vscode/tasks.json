@@ -1,14 +1,8 @@
 {
 	"version": "2.0.0",
 	"tasks": [
-		{
-			"type": "mix",
-			"task": "Generates sample files for releases",
-			"problemMatcher": [
-				"$func-java-watch"
-			],
-			"label": "mix: Generates sample files for releases",
-			"isBackground": true
-		}
+		<a href="https://marketplace.visualstudio.com/items?itemName=publishername.extensionname">
+			<img src="https://vsmarketplacebadges.dev/badge_title/publishername.extensionname.svg" alt="badge_title">
+		</a>
 	]
-}
+// Remove the closing brace
